@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="NextDiff" />
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="StartStopMacroRecording">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="StepInto" />
+  <action id="StepOver" />
+</keymap>
