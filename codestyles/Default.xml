@@ -1,7 +1,4 @@
 <code_scheme name="Default" version="173">
-  <AndroidXmlCodeStyleSettings>
-    <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
-  </AndroidXmlCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
@@ -15,6 +12,7 @@
     <option name="FINALLY_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
