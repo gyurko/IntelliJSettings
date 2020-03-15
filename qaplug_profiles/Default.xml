@@ -123,7 +123,7 @@
   <coding_rule class="CodeStyleClassNamingConventions" level="MAJOR" enabled="true" />
   <coding_rule class="CodeStyleCommentDefaultAccessModifier" level="MINOR" enabled="false" />
   <coding_rule class="CodeStyleConfusingTernary" level="MAJOR" enabled="false" />
-  <coding_rule class="CodeStyleDefaultPackage" level="MINOR" enabled="false" />
+  <coding_rule class="CodeStyleDefaultPackage" level="MINOR" enabled="true" />
   <coding_rule class="CodeStyleDontImportJavaLang" level="MINOR" enabled="true" />
   <coding_rule class="CodeStyleDuplicateImports" level="MINOR" enabled="false" />
   <coding_rule class="CodeStyleDuplicateJspImports" level="MAJOR" enabled="false" />
