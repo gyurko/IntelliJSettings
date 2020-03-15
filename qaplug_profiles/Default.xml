@@ -129,7 +129,7 @@
   <coding_rule class="CodeStyleDuplicateJspImports" level="MAJOR" enabled="false" />
   <coding_rule class="CodeStyleEmptyMethodInAbstractClassShouldBeAbstract" level="MAJOR" enabled="false" />
   <coding_rule class="CodeStyleExtendsObject" level="MAJOR" enabled="false" />
-  <coding_rule class="CodeStyleFieldDeclarationsShouldBeAtStartOfClass" level="MAJOR" enabled="false" />
+  <coding_rule class="CodeStyleFieldDeclarationsShouldBeAtStartOfClass" level="MAJOR" enabled="true" />
   <coding_rule class="CodeStyleForLoopShouldBeWhileLoop" level="MINOR" enabled="false" />
   <coding_rule class="CodeStyleForLoopsMustUseBraces" level="MAJOR" enabled="true" />
   <coding_rule class="CodeStyleGenericsNaming" level="MAJOR" enabled="false" />
