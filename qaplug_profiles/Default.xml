@@ -80,7 +80,7 @@
   <coding_rule class="BestPracticesSwitchStmtsShouldHaveDefault" level="MAJOR" enabled="false" />
   <coding_rule class="BestPracticesSystemPrintln" level="MAJOR" enabled="true" />
   <coding_rule class="BestPracticesUnusedFormalParameter" level="MAJOR" enabled="true" />
-  <coding_rule class="BestPracticesUnusedImports" level="INFO" enabled="false" />
+  <coding_rule class="BestPracticesUnusedImports" level="INFO" enabled="true" />
   <coding_rule class="BestPracticesUnusedLocalVariable" level="MAJOR" enabled="true" />
   <coding_rule class="BestPracticesUnusedPrivateField" level="MAJOR" enabled="true" />
   <coding_rule class="BestPracticesUnusedPrivateMethod" level="MAJOR" enabled="true" />
