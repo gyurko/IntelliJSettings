@@ -583,7 +583,7 @@
   <coding_rule class="MissingJavadocPackageCheck" level="MAJOR" enabled="false" />
   <coding_rule class="MissingJavadocTypeCheck" level="MAJOR" enabled="false" />
   <coding_rule class="MissingOverrideCheck" level="MAJOR" enabled="false" />
-  <coding_rule class="MissingSwitchDefaultCheck" level="MAJOR" enabled="false" />
+  <coding_rule class="MissingSwitchDefaultCheck" level="MAJOR" enabled="true" />
   <coding_rule class="ModifiedControlVariableCheck" level="MAJOR" enabled="false" />
   <coding_rule class="ModifierOrderCheck" level="MINOR" enabled="true" />
   <coding_rule class="MultipleStringLiteralsCheck" level="MAJOR" enabled="false" />
