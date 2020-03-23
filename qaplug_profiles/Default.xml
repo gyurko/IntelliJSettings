@@ -46,7 +46,7 @@
   <coding_rule class="BestPracticesAccessorMethodGeneration" level="MAJOR" enabled="false" />
   <coding_rule class="BestPracticesArrayIsStoredDirectly" level="CRITICAL" enabled="true" />
   <coding_rule class="BestPracticesAvoidPrintStackTrace" level="MAJOR" enabled="true" />
-  <coding_rule class="BestPracticesAvoidReassigningParameters" level="MAJOR" enabled="false" />
+  <coding_rule class="BestPracticesAvoidReassigningParameters" level="MAJOR" enabled="true" />
   <coding_rule class="BestPracticesAvoidStringBufferField" level="MAJOR" enabled="false" />
   <coding_rule class="BestPracticesAvoidUsingHardCodedIP" level="MAJOR" enabled="false" />
   <coding_rule class="BestPracticesCheckResultSet" level="MAJOR" enabled="false" />
@@ -70,7 +70,7 @@
   <coding_rule class="BestPracticesNoClassAttribute" level="MAJOR" enabled="false" />
   <coding_rule class="BestPracticesNoHtmlComments" level="MAJOR" enabled="false" />
   <coding_rule class="BestPracticesNoJspForward" level="MAJOR" enabled="false" />
-  <coding_rule class="BestPracticesOneDeclarationPerLine" level="MAJOR" enabled="false" />
+  <coding_rule class="BestPracticesOneDeclarationPerLine" level="MAJOR" enabled="true" />
   <coding_rule class="BestPracticesPositionLiteralsFirstInCaseInsensitiveComparisons" level="MAJOR" enabled="false" />
   <coding_rule class="BestPracticesPositionLiteralsFirstInComparisons" level="MAJOR" enabled="false" />
   <coding_rule class="BestPracticesPreserveStackTrace" level="MAJOR" enabled="true" />
@@ -80,7 +80,7 @@
   <coding_rule class="BestPracticesSwitchStmtsShouldHaveDefault" level="MAJOR" enabled="false" />
   <coding_rule class="BestPracticesSystemPrintln" level="MAJOR" enabled="true" />
   <coding_rule class="BestPracticesUnusedFormalParameter" level="MAJOR" enabled="true" />
-  <coding_rule class="BestPracticesUnusedImports" level="INFO" enabled="false" />
+  <coding_rule class="BestPracticesUnusedImports" level="INFO" enabled="true" />
   <coding_rule class="BestPracticesUnusedLocalVariable" level="MAJOR" enabled="true" />
   <coding_rule class="BestPracticesUnusedPrivateField" level="MAJOR" enabled="true" />
   <coding_rule class="BestPracticesUnusedPrivateMethod" level="MAJOR" enabled="true" />
@@ -123,13 +123,13 @@
   <coding_rule class="CodeStyleClassNamingConventions" level="MAJOR" enabled="true" />
   <coding_rule class="CodeStyleCommentDefaultAccessModifier" level="MINOR" enabled="false" />
   <coding_rule class="CodeStyleConfusingTernary" level="MAJOR" enabled="false" />
-  <coding_rule class="CodeStyleDefaultPackage" level="MINOR" enabled="false" />
+  <coding_rule class="CodeStyleDefaultPackage" level="MINOR" enabled="true" />
   <coding_rule class="CodeStyleDontImportJavaLang" level="MINOR" enabled="true" />
   <coding_rule class="CodeStyleDuplicateImports" level="MINOR" enabled="false" />
   <coding_rule class="CodeStyleDuplicateJspImports" level="MAJOR" enabled="false" />
   <coding_rule class="CodeStyleEmptyMethodInAbstractClassShouldBeAbstract" level="MAJOR" enabled="false" />
   <coding_rule class="CodeStyleExtendsObject" level="MAJOR" enabled="false" />
-  <coding_rule class="CodeStyleFieldDeclarationsShouldBeAtStartOfClass" level="MAJOR" enabled="false" />
+  <coding_rule class="CodeStyleFieldDeclarationsShouldBeAtStartOfClass" level="MAJOR" enabled="true" />
   <coding_rule class="CodeStyleForLoopShouldBeWhileLoop" level="MINOR" enabled="false" />
   <coding_rule class="CodeStyleForLoopsMustUseBraces" level="MAJOR" enabled="true" />
   <coding_rule class="CodeStyleGenericsNaming" level="MAJOR" enabled="false" />
@@ -157,7 +157,7 @@
   <coding_rule class="CodeStyleTooManyStaticImports" level="MAJOR" enabled="false" />
   <coding_rule class="CodeStyleUnnecessaryConstructor" level="MAJOR" enabled="false" />
   <coding_rule class="CodeStyleUnnecessaryFinalModifier" level="INFO" enabled="false" />
-  <coding_rule class="CodeStyleUnnecessaryFullyQualifiedName" level="MAJOR" enabled="false" />
+  <coding_rule class="CodeStyleUnnecessaryFullyQualifiedName" level="MAJOR" enabled="true" />
   <coding_rule class="CodeStyleUnnecessaryLocalBeforeReturn" level="MAJOR" enabled="true" />
   <coding_rule class="CodeStyleUnnecessaryModifier" level="MAJOR" enabled="false" />
   <coding_rule class="CodeStyleUnnecessaryParentheses" level="MINOR" enabled="false" />
@@ -279,7 +279,7 @@
   <coding_rule class="DesignSimplifiedTernary" level="MAJOR" enabled="false" />
   <coding_rule class="DesignSimplifyBooleanAssertion" level="MAJOR" enabled="false" />
   <coding_rule class="DesignSimplifyBooleanExpressions" level="MINOR" enabled="false" />
-  <coding_rule class="DesignSimplifyBooleanReturns" level="MINOR" enabled="false" />
+  <coding_rule class="DesignSimplifyBooleanReturns" level="MINOR" enabled="true" />
   <coding_rule class="DesignSimplifyConditional" level="MAJOR" enabled="true" />
   <coding_rule class="DesignSingularField" level="MINOR" enabled="true" />
   <coding_rule class="DesignStdCyclomaticComplexity" level="MAJOR" enabled="false" />
@@ -293,7 +293,7 @@
   <coding_rule class="DocumentationCommentRequired" level="MAJOR" enabled="false" />
   <coding_rule class="DocumentationCommentSize" level="MAJOR" enabled="false" />
   <coding_rule class="DocumentationUncommentedEmptyConstructor" level="MAJOR" enabled="false" />
-  <coding_rule class="DocumentationUncommentedEmptyMethodBody" level="MAJOR" enabled="false" />
+  <coding_rule class="DocumentationUncommentedEmptyMethodBody" level="MAJOR" enabled="true" />
   <coding_rule class="EC_ARRAY_AND_NONARRAY" level="CRITICAL" enabled="true" />
   <coding_rule class="EC_BAD_ARRAY_COMPARE" level="CRITICAL" enabled="true" />
   <coding_rule class="EC_INCOMPATIBLE_ARRAY_COMPARE" level="MAJOR" enabled="false" />
@@ -583,7 +583,7 @@
   <coding_rule class="MissingJavadocPackageCheck" level="MAJOR" enabled="false" />
   <coding_rule class="MissingJavadocTypeCheck" level="MAJOR" enabled="false" />
   <coding_rule class="MissingOverrideCheck" level="MAJOR" enabled="false" />
-  <coding_rule class="MissingSwitchDefaultCheck" level="MAJOR" enabled="false" />
+  <coding_rule class="MissingSwitchDefaultCheck" level="MAJOR" enabled="true" />
   <coding_rule class="ModifiedControlVariableCheck" level="MAJOR" enabled="false" />
   <coding_rule class="ModifierOrderCheck" level="MINOR" enabled="true" />
   <coding_rule class="MultipleStringLiteralsCheck" level="MAJOR" enabled="false" />
