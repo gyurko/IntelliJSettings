@@ -398,7 +398,7 @@
   <coding_rule class="ErrorProneLoggerIsNotStaticFinal" level="MAJOR" enabled="false" />
   <coding_rule class="ErrorProneMethodWithSameNameAsEnclosingClass" level="MAJOR" enabled="true" />
   <coding_rule class="ErrorProneMisplacedNullCheck" level="CRITICAL" enabled="false" />
-  <coding_rule class="ErrorProneMissingBreakInSwitch" level="CRITICAL" enabled="false" />
+  <coding_rule class="ErrorProneMissingBreakInSwitch" level="CRITICAL" enabled="true" />
   <coding_rule class="ErrorProneMissingSerialVersionUID" level="MAJOR" enabled="false" />
   <coding_rule class="ErrorProneMissingStaticMethodInNonInstantiatableClass" level="MAJOR" enabled="true" />
   <coding_rule class="ErrorProneMoreThanOneLogger" level="MAJOR" enabled="false" />
@@ -444,7 +444,7 @@
   <coding_rule class="FI_PUBLIC_SHOULD_BE_PROTECTED" level="MAJOR" enabled="true" />
   <coding_rule class="FI_USELESS" level="MINOR" enabled="true" />
   <coding_rule class="FL_MATH_USING_FLOAT_PRECISION" level="CRITICAL" enabled="true" />
-  <coding_rule class="FallThroughCheck" level="MAJOR" enabled="false" />
+  <coding_rule class="FallThroughCheck" level="MAJOR" enabled="true" />
   <coding_rule class="FileLengthCheck" level="MAJOR" enabled="false" />
   <coding_rule class="FileTabCharacterCheck" level="MAJOR" enabled="false" />
   <coding_rule class="FinalClassCheck" level="MAJOR" enabled="true" />
@@ -803,8 +803,8 @@
   <coding_rule class="SE_TRANSIENT_FIELD_OF_NONSERIALIZABLE_CLASS" level="MAJOR" enabled="true" />
   <coding_rule class="SF_DEAD_STORE_DUE_TO_SWITCH_FALLTHROUGH" level="MAJOR" enabled="false" />
   <coding_rule class="SF_DEAD_STORE_DUE_TO_SWITCH_FALLTHROUGH_TO_THROW" level="MAJOR" enabled="false" />
-  <coding_rule class="SF_SWITCH_FALLTHROUGH" level="MAJOR" enabled="false" />
-  <coding_rule class="SF_SWITCH_NO_DEFAULT" level="MAJOR" enabled="false" />
+  <coding_rule class="SF_SWITCH_FALLTHROUGH" level="MAJOR" enabled="true" />
+  <coding_rule class="SF_SWITCH_NO_DEFAULT" level="MAJOR" enabled="true" />
   <coding_rule class="SIC_INNER_SHOULD_BE_STATIC" level="MAJOR" enabled="true" />
   <coding_rule class="SIC_INNER_SHOULD_BE_STATIC_ANON" level="MAJOR" enabled="true" />
   <coding_rule class="SIC_INNER_SHOULD_BE_STATIC_NEEDS_THIS" level="MAJOR" enabled="true" />
