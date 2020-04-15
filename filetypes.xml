@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".s43" type="Assembly file" />
       <mapping ext="0" type="XML" />
     </extensionMap>
   </component>
