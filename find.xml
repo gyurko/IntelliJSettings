@@ -7,6 +7,32 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cpp" />
+    <option name="FILE_MASK" value="*.s43" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.ipp</mask>
+    <mask>*.hxx</mask>
+    <mask>*.h++</mask>
+    <mask>*.c</mask>
+    <mask>*.h</mask>
+    <mask>*.i</mask>
+    <mask>*.hh</mask>
+    <mask>*.m</mask>
+    <mask>*.tcc</mask>
+    <mask>*.ii</mask>
+    <mask>*.inl</mask>
+    <mask>*.hpp</mask>
+    <mask>*.cxx</mask>
+    <mask>*.pch</mask>
+    <mask>*.mm</mask>
+    <mask>*.cc</mask>
+    <mask>*.c++</mask>
+    <mask>*.cp</mask>
+    <mask>*.ino</mask>
+    <mask>*.icc</mask>
+    <mask>*.hp</mask>
+    <mask>*.cpp</mask>
+    <mask>*.s43</mask>
   </component>
 </application>
