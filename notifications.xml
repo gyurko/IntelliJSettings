@@ -1,6 +1,19 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Accepted language levels" displayType="NONE" />
+    <notification groupId="Android Gradle Upgrade Notification" displayType="NONE" />
+    <notification groupId="Android Module Importing" displayType="NONE" />
+    <notification groupId="Android Notification Group" displayType="NONE" />
+    <notification groupId="Android Property Files Updating" displayType="NONE" />
+    <notification groupId="Automatic indent detection" displayType="NONE" />
+    <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Clean artifact" displayType="NONE" />
+    <notification groupId="Code style settings migration" displayType="NONE" />
+    <notification groupId="Collect Zipped Logs" displayType="NONE" />
+    <notification groupId="Gradle Build (Balloon)" displayType="NONE" />
+    <notification groupId="Gradle Import" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Indexing" displayType="NONE" shouldLog="false" />
   </component>
 </application>
