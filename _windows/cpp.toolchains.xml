@@ -1,7 +1,7 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
-      <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\MinGW" customMakePath="C:\MyStudio\yagarto\bin\make.exe" customCCompilerPath="C:\MyStudio\yagarto\bin\arm-elf-gcc.exe" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\MinGW" customMakePath="C:\MyStudio\yagarto\bin\arm-elf-gcc.exe" customCCompilerPath="C:\MyStudio\yagarto\bin\arm-elf-gcc.exe" debuggerKind="BUNDLED_GDB" />
       <toolchain name="Cygwin" toolSetKind="CYGWIN" toolSetPath="C:\cygwin64" customCCompilerPath="C:\MyStudio\yagarto\bin\arm-elf-gcc.exe" debuggerKind="CUSTOM_GDB" customGDBPath="C:\cygwin64\bin\gdb.exe" />
       <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community" debuggerKind="BUNDLED_LLDB">
         <toolSetOption type="msvc.arch" value="arm" />
