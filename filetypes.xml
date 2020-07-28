@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".s43" type="Assembly file" />
       <mapping ext="s43" type="Assembly file" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="0" type="XML" />
       <removed_mapping ext="d" approved="true" type="GitIgnore file" />
