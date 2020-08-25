@@ -2,6 +2,14 @@
   <AndroidXmlCodeStyleSettings>
     <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
   </AndroidXmlCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="2" />
+  </JSCodeStyleSettings>
+  <Objective-C>
+    <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
+    <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
+    <option name="BLOCK_BRACE_PLACEMENT" value="2" />
+  </Objective-C>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
@@ -30,6 +38,20 @@
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="WRAP_ON_TYPING" value="1" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="IF_BRACE_FORCE" value="3" />
+    <option name="DOWHILE_BRACE_FORCE" value="3" />
+    <option name="WHILE_BRACE_FORCE" value="3" />
+    <option name="FOR_BRACE_FORCE" value="3" />
+  </codeStyleSettings>
+  <codeStyleSettings language="ObjectiveC">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
@@ -125,7 +147,6 @@
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
-            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
