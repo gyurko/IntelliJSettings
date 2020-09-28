@@ -2,6 +2,14 @@
   <component name="PluginAdvertiserExtensions">
     <option name="localState">
       <map>
+        <entry key="*.al">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ane">
           <value>
             <plugin>
@@ -80,6 +88,22 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cgi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
             </plugin>
           </value>
         </entry>
@@ -434,6 +458,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ini">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ioc">
           <value>
             <plugin>
@@ -775,6 +807,30 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ph">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.png">
           <value>
             <plugin>
@@ -790,6 +846,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pod">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
             </plugin>
           </value>
         </entry>
@@ -1018,6 +1082,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.t">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tga">
           <value>
             <plugin>
@@ -1198,6 +1270,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.xs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.xsd">
           <value>
             <plugin>
@@ -1312,6 +1392,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".flowconfig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
             </plugin>
           </value>
         </entry>
@@ -1449,6 +1537,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="cpanfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="exclude">
           <value>
             <plugin>
@@ -1493,6 +1589,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="platformio.ini">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="intellij.clion.embedded.platformio" />
+              <option name="myPluginName" value="PlatformIO for CLion" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="tsconfig.json">
           <value>
             <plugin>
@@ -1522,6 +1626,16 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="#PerlConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Perl" pluginName="Perl" pluginId="com.perl5" />
+                    </value>
+                  </entry>
+                  <entry key="#PerlRemoteDebuggingConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Perl Remote Debugging" pluginName="Perl" pluginId="com.perl5" />
+                    </value>
+                  </entry>
                   <entry key="CLionExternalRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Custom Build Application" pluginName="IDEA CORE" pluginId="com.intellij" />
@@ -1632,6 +1746,11 @@
                       <FeaturePluginData displayName="NW.js" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="PerlTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Perl5 Test" pluginName="Perl" pluginId="com.perl5" />
+                    </value>
+                  </entry>
                   <entry key="PythonConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
@@ -1700,6 +1819,11 @@
                   <entry key="js.build_tools.npm">
                     <value>
                       <FeaturePluginData displayName="npm" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
+                  <entry key="platformio">
+                    <value>
+                      <FeaturePluginData displayName="PlatformIO" pluginName="PlatformIO for CLion" pluginId="intellij.clion.embedded.platformio" />
                     </value>
                   </entry>
                   <entry key="tests">
