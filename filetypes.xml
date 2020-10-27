@@ -2,16 +2,16 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.bin;*.d;*.dep;*.ewp;*.ewt;*.eww;*.hprof;*.lst;*.map;*.o;*.pyc;*.pyo;*.r43;*.rbc;*.yarb;*.zip;*ewd;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern=".s43" type="Assembly file" />
-      <mapping ext="s43" type="Assembly file" />
-      <mapping ext="webp" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
-      <removed_mapping pattern="*.js.map" approved="true" type="SourceMap" />
       <mapping ext="0" type="XML" />
       <removed_mapping ext="d" approved="true" type="GitIgnore file" />
       <removed_mapping pattern="*.js.map" approved="true" type="SourceMap" />
       <removed_mapping ext="o" approved="true" type="GitIgnore file" />
+      <mapping ext="s43" type="Assembly file" />
+      <mapping pattern=".s43" type="Assembly file" />
     </extensionMap>
   </component>
 </application>
