@@ -94,8 +94,8 @@
         <entry key="*.asm">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.cidr.lang" />
+              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -191,8 +191,8 @@
         <entry key="*.cmake">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.clion" />
+              <option name="myPluginName" value="CLion IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -317,8 +317,8 @@
         <entry key="*.doxygen">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.cidr.lang" />
+              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -425,8 +425,8 @@
         <entry key="*.gdbcommandsfiletypeextension">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.cidr.base" />
+              <option name="myPluginName" value="CIDR Base" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -515,8 +515,8 @@
         <entry key="*.hmap">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.cidr.lang" />
+              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -614,7 +614,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.clion.embedded" />
-              <option name="myPluginName" value="Embedded Development Support" />
+              <option name="myPluginName" value="com.intellij.clion.embedded" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -910,8 +910,8 @@
         <entry key="*.lldbcommandsfiletypeextension">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.cidr.base" />
+              <option name="myPluginName" value="CIDR Base" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -981,8 +981,8 @@
         <entry key="*.modulemap">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.cidr.lang" />
+              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1856,8 +1856,8 @@
         <entry key="CMakeCache.txt">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.clion" />
+              <option name="myPluginName" value="CLion IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1865,8 +1865,8 @@
         <entry key="CMakeLists.txt">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.clion" />
+              <option name="myPluginName" value="CLion IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -2091,7 +2091,7 @@
                   </entry>
                   <entry key="CLionExternalRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Custom Build Application" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="Custom Build Application" pluginName="CLion IDE" pluginId="com.intellij.clion" />
                     </value>
                   </entry>
                   <entry key="CLionNativeAppRunConfigurationType">
@@ -2106,7 +2106,7 @@
                   </entry>
                   <entry key="CLion_Remote">
                     <value>
-                      <FeaturePluginData displayName="GDB Remote Debug" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="GDB Remote Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" />
                     </value>
                   </entry>
                   <entry key="CMakeBoostTestRunConfigurationType">
@@ -2131,7 +2131,7 @@
                   </entry>
                   <entry key="CMakeRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="CMake Application" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="CMake Application" pluginName="CLion IDE" pluginId="com.intellij.clion" />
                     </value>
                   </entry>
                   <entry key="CTestRunConfiguration">
@@ -2161,7 +2161,7 @@
                   </entry>
                   <entry key="GradleAppRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Gradle Native Application" pluginName="Gradle Native" pluginId="com.intellij.clion-gradle" />
+                      <FeaturePluginData displayName="Gradle Native Application" pluginName="com.intellij.clion-gradle" pluginId="com.intellij.clion-gradle" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -2286,17 +2286,17 @@
                   </entry>
                   <entry key="com.jetbrains.cidr.embedded.customgdbserver.type">
                     <value>
-                      <FeaturePluginData displayName="Embedded GDB Server" pluginName="Embedded Development Support" pluginId="com.intellij.clion.embedded" />
+                      <FeaturePluginData displayName="Embedded GDB Server" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" />
                     </value>
                   </entry>
                   <entry key="com.jetbrains.cidr.embedded.openocd.conf.type">
                     <value>
-                      <FeaturePluginData displayName="OpenOCD Download &amp; Run" pluginName="Embedded Development Support" pluginId="com.intellij.clion.embedded" />
+                      <FeaturePluginData displayName="OpenOCD Download &amp; Run" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" />
                     </value>
                   </entry>
                   <entry key="com.jetbrains.cidr.remote.gdbserver.type">
                     <value>
-                      <FeaturePluginData displayName="Remote GDB Server" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="Remote GDB Server" pluginName="CLion IDE" pluginId="com.intellij.clion" />
                     </value>
                   </entry>
                   <entry key="elmot.embedded.openocd.conf.type">
@@ -2341,7 +2341,7 @@
                 <map>
                   <entry key="Python">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="android">
