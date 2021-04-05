@@ -76,8 +76,8 @@
         <entry key="*.apk">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -202,15 +202,6 @@
             <plugin>
               <option name="myPluginId" value="org.coffeescript" />
               <option name="myPluginName" value="CoffeeScript" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.config">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="Lombook Plugin" />
-              <option name="myPluginName" value="Lombok" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1175,8 +1166,8 @@
         <entry key="*.psd">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij.platform.images" />
+              <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1964,15 +1955,6 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.groovy" />
               <option name="myPluginName" value="Groovy" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="lombok.config">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="Lombook Plugin" />
-              <option name="myPluginName" value="Lombok" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
